@@ -158,6 +158,12 @@ resultados/resumo_monte_carlo.txt
     └── README.md
 ```
 
+## Declaração de independência
+
+Este é um projeto pessoal e independente de pesquisa computacional. Ele não possui vínculo, participação, patrocínio, validação ou endosso de empregadores, instituições acadêmicas, órgãos governamentais ou operadores de sistemas reais.
+
+Todos os dados, parâmetros, veículos, cenários e resultados são inteiramente sintéticos.
+
 ## Limites de uso
 
 Este é um experimento de pesquisa computacional. Ele:
