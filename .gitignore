@@ -1,0 +1,5 @@
+*.o
+interceptacao_cognitiva
+resultados/*.csv
+resultados/*.txt
+!resultados/README.md

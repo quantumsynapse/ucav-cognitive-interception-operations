@@ -1,0 +1,26 @@
+# Todos os valores são sintéticos e servem apenas à simulação.
+# Unidades: SI, salvo indicação em contrário.
+dt=0.5
+duracao=900
+numero_trafegos=24
+execucoes_monte_carlo=1000
+semente=20260718
+
+# Limites internos do experimento, não equivalem a mínimos regulatórios.
+separacao_pe_horizontal=500
+separacao_pe_vertical=100
+separacao_civil_horizontal=1000
+separacao_civil_vertical=200
+
+# Geometria e dinâmica sintéticas.
+distancia_interceptacao=1200
+distancia_dialogo=5000
+horizonte_predicao=60
+aceleracao_maxima=3.0
+velocidade_minima=45
+velocidade_maxima=95
+
+# Cognição e enlace.
+limiar_cumprimento=0.70
+probabilidade_perda_enlace=0.015
+atraso_medio_enlace=1.5
